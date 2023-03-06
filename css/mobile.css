@@ -14,4 +14,12 @@
     .hero-section > .container {
         max-width: 428px;
     }
+
+    .footer > .container {
+        max-width: 428px;
+    }
+
+    .modal > .container {
+        max-width: 428;
+    }
 }
