@@ -19,7 +19,11 @@
         max-width: 428px;
     }
 
-    .modal > .container {
-        max-width: 428;
+    
+}
+
+@media screen and (max-width: 767px) {
+    .header-address {
+        display: none;
     }
 }
